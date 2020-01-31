@@ -1,0 +1,10 @@
+{
+	"author": "AriusX7",
+	"description": "A collection of commands for /r/DCTV server.",
+	"install_msg": "Thank you for installing the DCTV cog. Please ensure you have given the bot sufficient permissions. Use the `[p]help DCTV` command after loading to get started.",
+	"min_python_version": [3, 8, 0],
+	"requirements": ["requests"],
+	"short": "A collection of commands for /r/DCTV server.",
+	"tags": [],
+	"type": "COG"
+}

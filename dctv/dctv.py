@@ -238,7 +238,7 @@ class DCTV(commands.Cog):
         await channel.send(self.INVITE)
 
     @commands.command(name="editrules")
-    @checks.admin_or_permissions()
+    @checks.is_owner()
     async def edit_rules(
         self, ctx: Context, channel: discord.TextChannel, message_id: str
     ):
@@ -251,7 +251,7 @@ class DCTV(commands.Cog):
         )
 
     @commands.command(name="editinfo")
-    @checks.admin_or_permissions()
+    @checks.is_owner()
     async def edit_info(
         self, ctx: Context, channel: discord.TextChannel, message_id: str
     ):
@@ -266,7 +266,7 @@ class DCTV(commands.Cog):
         )
 
     @commands.command(name="editroles")
-    @checks.admin_or_permissions()
+    @checks.is_owner()
     async def edit_roles(
         self, ctx: Context, channel: discord.TextChannel, message_id: str
     ):
@@ -279,7 +279,7 @@ class DCTV(commands.Cog):
         )
 
     @commands.command(name="editinvite")
-    @checks.admin_or_permissions()
+    @checks.is_owner()
     async def edit_invite(
         self, ctx: Context, channel: discord.TextChannel, message_id: str
     ):

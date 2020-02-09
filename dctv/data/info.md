@@ -23,5 +23,3 @@ The following subreddits are partnered:
 [/r/StargirlTV](https://www.reddit.com/r/StargirlTV/)
 
 [/r/SupermanAndLois](https://www.reddit.com/r/SupermanAndLois/)
-
-To get your subreddit added to the list above, direct message a moderator!

@@ -14,13 +14,15 @@
 
 <@&505744189963632641> /r/BlackLightning Moderators!
 
+<@&675121364910211105> Non-moderators who contribute to the server or the subreddits!
+
 The following are <@159985870458322944> level roles. They are automatically added by the bot as you partake in discussions. Whenever you talk, you get some experience points. You reach new levels when you have enough experience points. Every few levels, you reach a milestone which includes a role. The first person to reach the role can choose the role color. These roles showcase the active members of the community.
 
 <@&672074007021092864> LEVEL 5
 
-<@&672071026192154644> LEVEL 10
+<@&672068939647549451> LEVEL 10
 
-<@&672068939647549451> LEVEL 20
+<@&672071026192154644> LEVEL 20
 
 <@&672070957342392330> LEVEL 30
 

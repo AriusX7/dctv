@@ -14,13 +14,9 @@ To make sure our Discord community will always be as welcoming and accepting as 
 
 6. **Respect the server.** Use the <@&435132001193033738> tag to contact the moderators during emergency. Send a message to <@672422978671214592> to report rule violations. Spamming or abusing role tags can result in a ban.  
 
-7. **Respect the server.** Send <@>
-
-8. **Follow Discord’s [community guidelines](https://discordapp.com/guidelines).** You must be at least 13 years old to use Discord, and abide by all other terms and guidelines.
+7. **Follow Discord’s [community guidelines](https://discordapp.com/guidelines).** You must be at least 13 years old to use Discord, and abide by all other terms and guidelines.
 
 - Admins and Moderators hold final judgment in enforcing these rules.
-
-- Send a message to <@672422978671214592> to report rule violations, provide suggestions for the server or to reach the moderators in case of any query or server related issue.
 
 - All rules are subject to change.
 

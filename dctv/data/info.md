@@ -23,3 +23,9 @@ The following subreddits are partnered:
 [/r/StargirlTV](https://www.reddit.com/r/StargirlTV/)
 
 [/r/SupermanAndLois](https://www.reddit.com/r/SupermanAndLois/)
+
+**Have suggestions, feedback or questions?**
+
+Send a message to <@672422978671214592> to with your suggestions, feedback and/or questions and a moderator will reply as soon as possible!  
+
+Please note that sending non-serious or troll messages to the ModMail can lead to you getting blocked from it.

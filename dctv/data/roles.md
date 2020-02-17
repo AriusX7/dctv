@@ -31,3 +31,5 @@ The following are <@159985870458322944> level roles. They are automatically adde
 <@&672067753720414218> LEVEL 50
 
 You can view your level and rank by using the `!rank` command in the <#672072185950765127> channel.
+
+There are some TV show specific roles. They allow you to access the discussion channel of the specific show. Head over to <#678870347856216064> for more information about them!
